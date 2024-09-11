@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_Police_Facilities_1 = function(feature, resolution){
+var style_Police_Facilities_2 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
